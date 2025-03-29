@@ -70,17 +70,17 @@ namespace Yetgim_C__OOP_Odev
             _kelime = _kelime.ToLower();
 
 
-        //Kullanıcının girmiş olduğu kelimenin harf sayısı 4'ten küçük ise koşul içerisinde kontrol ederken else durumuna düşecek ve kullanıcı yeniden bir kelime girecek ve bu girmiş olduğu kelimeyi de tekrardan kontrol etmemiz gerektiği için buraya bir etiket koyarak ,else içerisinde bu etikete döneceğim.
+        //Kullanıcının girmiş olduğu kelimenin harf sayısı 3'ten küçük ise koşul içerisinde kontrol ederken else durumuna düşecek ve kullanıcı yeniden bir kelime girecek ve bu girmiş olduğu kelimeyi de tekrardan kontrol etmemiz gerektiği için buraya bir etiket koyarak ,else içerisinde bu etikete döneceğim.
         KontrolEt:
 
             //Kullanıcının girmiş olduğu kelimenin palindrom olup olmadığını bulmak istediğim için, kullanıcının girmiş olduğu kelimenin en az 4 harfli olmasını istiyorum ve buradaki koşulum da bunu kontrol edecek.
-            if (_kelime != null && _kelime.Length >= 4 && !_kelime.Contains(" "))
+            if (_kelime != null && _kelime.Length >= 3 && !_kelime.Contains(" "))
             {
                 Console.WriteLine($"Girmiş olduğunuz kelime: {_kelime}");
                 return _kelime;
             }
             else
-                Console.WriteLine("Lütfen girdiğiniz kelime en az 4 harfli olsun ve harfler arasında boşluk olmasın ,tekrar kelime girebilirsiniz :");
+                Console.WriteLine("Lütfen girdiğiniz kelime en az 3 harfli olsun ve harfler arasında boşluk olmasın ,tekrar kelime girebilirsiniz :");
             _kelime = Console.ReadLine();
             goto KontrolEt;
 
