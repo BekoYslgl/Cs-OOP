@@ -1,0 +1,7 @@
+C:\Users\Burak\source\repos\Yetgim_C#_OOP_Odev\Yetgim_C#_OOP_Odev\bin\Debug\Yetgim_C#_OOP_Odev.exe.config
+C:\Users\Burak\source\repos\Yetgim_C#_OOP_Odev\Yetgim_C#_OOP_Odev\bin\Debug\Yetgim_C#_OOP_Odev.exe
+C:\Users\Burak\source\repos\Yetgim_C#_OOP_Odev\Yetgim_C#_OOP_Odev\bin\Debug\Yetgim_C#_OOP_Odev.pdb
+C:\Users\Burak\source\repos\Yetgim_C#_OOP_Odev\Yetgim_C#_OOP_Odev\obj\Debug\Yetgim_C#_OOP_Odev.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\Yetgim_C#_OOP_Odev\Yetgim_C#_OOP_Odev\obj\Debug\Yetgim_C#_OOP_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Yetgim_C#_OOP_Odev\Yetgim_C#_OOP_Odev\obj\Debug\Yetgim_C#_OOP_Odev.exe
+C:\Users\Burak\source\repos\Yetgim_C#_OOP_Odev\Yetgim_C#_OOP_Odev\obj\Debug\Yetgim_C#_OOP_Odev.pdb
